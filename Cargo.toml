@@ -1,0 +1,9 @@
+[package]
+name = "liu_shellsort"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Shellsort with Bo Liu's executable gap sequence (arXiv 2609.29881)"
+
+[dependencies]
+num-bigint = "0.4.8"
